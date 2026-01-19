@@ -12,7 +12,7 @@ add_subdirectory(thirdparty/glfw)
 
 set(GLAD_SOURCES_DIR "${PROJECT_SOURCE_DIR}/thirdparty/glad")
 add_subdirectory("${GLAD_SOURCES_DIR}/cmake")
-glad_add_library(glad_gl STATIC API gl:core=3.3)
+glad_add_library(glad_gl STATIC API gl:core=4.6)
 
 # Project exec
 add_executable(info_exec 
@@ -26,4 +26,9 @@ target_link_libraries(info_exec PRIVATE
 	glm::glm
 	glfw
 	glad_gl
+)
+
+add_custom_command(TARGET info_exec POST_BUILD
+		COMMAND ${CMAKE_COMMAND} -E copy_directory
+		${CMAKE_SOURCE_DIR}/shaders ${CMAKE_BINARY_DIR}/shaders
 )
