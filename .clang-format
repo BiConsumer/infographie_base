@@ -1,0 +1,12 @@
+BasedOnStyle: LLVM
+Language: Cpp
+SortIncludes: Never
+
+DerivePointerAlignment: false
+PointerAlignment: Left
+
+IndentWidth: 4
+ContinuationIndentWidth: 8
+AccessModifierOffset: -4
+
+ColumnLimit: 80

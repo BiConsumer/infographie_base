@@ -1,0 +1,146 @@
+[
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\gladsources\\glad_gl\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /FoCMakeFiles\\glad_gl.dir\\gladsources\\glad_gl\\src\\gl.c.obj /FdCMakeFiles\\glad_gl.dir\\glad_gl.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\gladsources\\glad_gl\\src\\gl.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/out/Debug/gladsources/glad_gl/src/gl.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/CMakeFiles/glad_gl.dir/gladsources/glad_gl/src/gl.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glm -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\gladsources\\glad_gl\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\info_exec.dir\\src\\main.cpp.obj /FdCMakeFiles\\info_exec.dir\\ /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\src\\main.cpp",
+  "file": "C:/Users/Orlando/repos/infographie_base/src/main.cpp",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/CMakeFiles/info_exec.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glm /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /Za /fp:precise /Fothirdparty\\glm\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj /Fdthirdparty\\glm\\glm\\CMakeFiles\\glm.dir\\glm.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glm\\glm\\detail\\glm.cpp",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glm/glm/detail/glm.cpp",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glm/glm/CMakeFiles/glm.dir/detail/glm.cpp.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\context.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/context.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\init.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/init.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\input.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/input.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\monitor.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/monitor.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\platform.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/platform.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\vulkan.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/vulkan.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\window.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/window.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\egl_context.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/egl_context.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\osmesa_context.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/osmesa_context.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\null_init.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/null_init.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\null_monitor.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/null_monitor.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\null_window.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/null_window.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\null_joystick.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/null_joystick.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\win32_module.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/win32_module.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\win32_time.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/win32_time.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\win32_thread.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/win32_thread.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\win32_init.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/win32_init.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\win32_joystick.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/win32_joystick.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\win32_monitor.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/win32_monitor.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\win32_window.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/win32_window.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/Orlando/repos/infographie_base/out/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\include -IC:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src -IC:\\Users\\Orlando\\repos\\infographie_base\\out\\Debug\\thirdparty\\glfw\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Fothirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /Fdthirdparty\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\Orlando\\repos\\infographie_base\\thirdparty\\glfw\\src\\wgl_context.c",
+  "file": "C:/Users/Orlando/repos/infographie_base/thirdparty/glfw/src/wgl_context.c",
+  "output": "C:/Users/Orlando/repos/infographie_base/out/Debug/thirdparty/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+}
+]
